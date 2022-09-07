@@ -1,3 +1,5 @@
+## FOR HEADLINES 
+#  FOR CONSOLE CODES
 
 ## IMPORT LIBRARIES
 import numpy as np
